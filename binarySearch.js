@@ -132,7 +132,6 @@ window.onload = () => {
   searchForAlphabeticalIndex("Way of Kings");
 };
 
-
 //don't change this line
 if (typeof module !== 'undefined') {
     module.exports = { searchForAlphabeticalIndex };
